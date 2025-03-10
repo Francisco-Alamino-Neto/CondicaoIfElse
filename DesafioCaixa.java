@@ -2,7 +2,7 @@ package condicaoIfElse;
 
 import java.util.Scanner;
 
-public class caixa {
+public class DesafioCaixa {
 
 	public static void main(String[] args) {
 		    
